@@ -15,5 +15,5 @@ Jawab: Method adalah suatu kumpulan/ blok kode yang tidak mengembalikan nilai da
 Jawab: Function merupakan suatu blok kode yang tidak hanya menjalankan program melainkan juga mengembalikan nilai dan menyimpannya di dalam function itu sendiri.
 
 6. penjelasan parameter dan penggunaan
-Jawab: Parameter mengacu pada daftar variabel dalam deklarasi method. 
+Jawab: Parameter mengacu pada daftar variabel dalam deklarasi method atau function. 
         Kemudian Argumen adalah nilai aktual yang diteruskan saat metode dipanggil sesuai urutan parameter yang dideklarasikan. 
